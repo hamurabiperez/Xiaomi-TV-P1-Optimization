@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Xiaomi TV P1 optimization project banner">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111d36"/><stop offset="1" stop-color="#0a121f"/></linearGradient><linearGradient id="edge" x2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
+<rect width="1000" height="280" rx="24" fill="url(#bg)"/>
+<g opacity=".13" stroke="#9cc7ef"><path d="M0 52H1000 M0 110H1000 M0 168H1000 M0 226H1000"/><path d="M60 0V280 M220 0V280 M380 0V280 M540 0V280 M700 0V280 M860 0V280"/></g>
+<rect x="69" y="70" width="213" height="140" rx="16" fill="#1a3355" stroke="url(#edge)" stroke-width="4"/>
+<rect x="86" y="87" width="179" height="104" rx="8" fill="#071323"/>
+<g stroke="#67e8f9" stroke-width="8" stroke-linecap="round"><path d="M120 117H176"/><path d="M120 141H230" opacity=".65"/><path d="M120 165H202" opacity=".45"/></g>
+<path d="M160 212h30 M149 222h52" stroke="#9cc7ef" stroke-width="4" stroke-linecap="round"/>
+<text x="324" y="104" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#f8fafc">Xiaomi TV P1</text>
+<text x="324" y="148" font-family="Arial,sans-serif" font-size="30" fill="#8bdcf8">OPTIMIZATION JOURNAL</text>
+<text x="325" y="192" font-family="Arial,sans-serif" font-size="21" fill="#cbd5e1">Measured • Reversible • No root • Android TV 10</text>
+<rect x="325" y="213" width="535" height="3" rx="2" fill="url(#edge)"/>
+</svg>

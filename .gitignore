@@ -1,0 +1,16 @@
+# Private local diagnostic outputs, not for publication
+private/
+local-data/
+output/
+reports-raw/
+*.log
+*.bak
+.env
+.env.*
+*.pem
+*.key
+adbkey*
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db
